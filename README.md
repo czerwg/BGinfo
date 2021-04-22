@@ -7,7 +7,7 @@ C:\scripts\bginfo.exe AS_cw.bgi /timer:0 /nolicprompt /silent
 ```
 Locations - place the shortcut in one of the locations:  
 ## All users startup folder:
-shell:common startup
+```shell:common startup```
 ## Your user only:
-shell:startup
+```shell:startup```
 
